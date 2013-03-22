@@ -2,7 +2,7 @@
 
 METADATA = dict(
     name='django-email-html',
-    version='0.1',
+    version='0.2',
     author='ramusus',
     description='Application for switching from Django plain-text emails to html emails with 2 bodies: html and plain-text, generated automatically from html',
     long_description=open('README').read(),
